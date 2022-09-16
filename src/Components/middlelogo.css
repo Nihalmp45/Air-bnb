@@ -1,0 +1,19 @@
+section{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.grouppic{
+    align-self: center;
+    max-width: 400px;
+}
+.grouphead{
+   margin-bottom: 16px;
+   font-family: 'poppins';
+   max-width: 400px;
+}
+.sentence{
+    font-family: 'poppins';
+    margin-top: 0;
+}
